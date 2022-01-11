@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+React.js, Apollo GraphQL, Typescript, Tailwind, Responsive Design, Node.js, Express.js, Nest.js, TypeORM, Docker, Docker Compose and VPS.
 
 ## Available Scripts
 
